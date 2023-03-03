@@ -1,0 +1,16 @@
+PODS:
+  - SwiftUISegmentedControl (0.1.0)
+
+DEPENDENCIES:
+  - SwiftUISegmentedControl (from `../`)
+
+EXTERNAL SOURCES:
+  SwiftUISegmentedControl:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SwiftUISegmentedControl: 2093b71eb66af233fb05edefc7a73a45aeb7771d
+
+PODFILE CHECKSUM: 425d827fdfab2c5cca00f37fe1777b0b1bba7968
+
+COCOAPODS: 1.11.2

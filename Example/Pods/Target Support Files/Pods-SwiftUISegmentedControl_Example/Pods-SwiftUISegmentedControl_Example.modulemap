@@ -1,0 +1,6 @@
+framework module Pods_SwiftUISegmentedControl_Example {
+  umbrella header "Pods-SwiftUISegmentedControl_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module SwiftUISegmentedControl {
+  umbrella header "SwiftUISegmentedControl-umbrella.h"
+
+  export *
+  module * { export * }
+}

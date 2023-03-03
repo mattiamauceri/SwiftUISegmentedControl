@@ -43,10 +43,10 @@
 		607FACE51AFB9204008FA782 /* SwiftUISegmentedControl_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftUISegmentedControl_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
-		72A36B74ACC74FEBCEFADC83 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		DD10F0982C54383C885E73E8 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		72A36B74ACC74FEBCEFADC83 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		DD10F0982C54383C885E73E8 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		E395619F433CE4EEDD459AD3 /* Pods_SwiftUISegmentedControl_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SwiftUISegmentedControl_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		E83E8E5E688745BEC61D0F2B /* SwiftUISegmentedControl.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = SwiftUISegmentedControl.podspec; path = ../SwiftUISegmentedControl.podspec; sourceTree = "<group>"; };
+		E83E8E5E688745BEC61D0F2B /* SwiftUISegmentedControl.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = SwiftUISegmentedControl.podspec; path = ../SwiftUISegmentedControl.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -156,7 +156,6 @@
 				3469E8A0EF554EE29AE13001 /* Pods-SwiftUISegmentedControl_Tests.debug.xcconfig */,
 				15501A612C38A00BABB81C0E /* Pods-SwiftUISegmentedControl_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -227,6 +226,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);

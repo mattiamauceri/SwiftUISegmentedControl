@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'SwiftUISegmentedControl'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of SwiftUISegmentedControl.'
+  s.summary          = 'This pod adds a segmented control written in swiftUI'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
