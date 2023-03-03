@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'SwiftUISegmentedControl_Example' do
+  pod 'SwiftUISegmentedControl', :path => '../'
+
+  target 'SwiftUISegmentedControl_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
